@@ -4,11 +4,7 @@ const data = [
         question : "Whose project is this?",
         answer : "This is Pooja's project."
     },
-    {
-        id: "1",
-        question: "What is React?",
-        answer: "React is a JavaScript library for building user interfaces."
-    },
+    
     {
         id: "2",
         question: "What are the key features of React?",
